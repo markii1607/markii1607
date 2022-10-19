@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark!</h1>
-<h3 align="center">Full Stack Developer from The Philippines</h3>
+<h3 align="center">Full Stack/Web/Blockchain Developer from The Philippines</h3>
 
 - 🔭 I’m currently working on **Cryptocurrency and DApps**
 
